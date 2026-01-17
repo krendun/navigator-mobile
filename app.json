@@ -32,7 +32,7 @@
       }
     },
     "plugins": [
-      "expo-secure-store"
+      ["@rnmapbox/maps"]
     ]
   }
 }
